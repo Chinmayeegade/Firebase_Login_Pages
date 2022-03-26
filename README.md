@@ -1,5 +1,5 @@
 # Firebase_Login_Pages
-- Login Page made using ReactJs and auththenticated using Firebase.
+- Login Page made using ReactJs and authenticated using Firebase.
 - Firebase is a product of Google which helps developers to build, manage, and grow their apps easily. No programming is required on the firebase side which makes it easy to use its features more efficiently. It provides services to android, ios, web, and unity. It provides cloud storage. It uses NoSQL for the database for the storage of data.
 - React is a free and open-source front-end JavaScript library for building user interfaces based on UI component.
 - To use the code, clone this repository:
